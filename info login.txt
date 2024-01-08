@@ -1,0 +1,15 @@
+LOGIN ADMIN
+
+Admin1
+username : slametracing
+password : 12345678
+
+Amin2
+username : bahriracing
+password : 12345678
+
+-----------------------------
+
+LOGIN DOKTER
+
+semua password dokter : 12345678
